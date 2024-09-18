@@ -3,7 +3,7 @@
 
 <img aling="right" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBtMDlqeWE3OHRmdHNyemQxdHlwaHp3cnEzZmlpODA0YndodmFwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" alt="img"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reza-msv&label=Profile%20views&color=0e75b6&style=flat" alt="reza-msv" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=reza-msv&label=Profile%20views&color=0e75b6&style=flat](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQ1bzJ1bW1kZ2pjdTMzcXlvNW0zcDJpNmRrbmIzeWNteHJpOXl5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n1dFDLwXu4Qkwy7OJ0/giphy.gif)" alt="reza-msv" /> </p>
 
 - 🌱 I’m currently learning **Next-js**
 
