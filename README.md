@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hey there, I'm Reza Mousavi</h1>
-<h3 align="center">A Full-Stack JavaScript Developer from Iran 🇮🇷</h3>
+<h3 align="center">A Front-End Developer Crafting Modern, Fast & Engaging Web Apps ⚡</h3>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBtMDlqeWE3OHRmdHNyemQxdHlwaHp3cnEzZmlpODA0YndodmFwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="400" alt="developer animation" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBtMDlqeWE3OHRmdHNyemQxdHlwaHp3cnEzZmlpODA0YndodmFwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="100%" alt="developer animation" />
 </p>
 
 ---
