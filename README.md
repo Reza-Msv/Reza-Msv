@@ -8,12 +8,16 @@
 ---
 
 ### 🚀 About Me  
-- 💻 I'm a **Full-Stack JavaScript Developer** focused on building clean, scalable, and high-performance web apps.  
-- 🌱 Currently mastering **Next.js 14**, **Node.js**, and **Express.js**, along with **PostgreSQL** & **MongoDB**.  
-- ⚙️ Experienced in both **Front-end (React, TailwindCSS, Framer Motion)** and **Back-end (REST APIs, authentication, databases)**.  
-- 📊 Interested in **Web3**, **modern backend architecture**, and **SQL optimization**.  
+
+Hey there! I'm **Reza Mousavi**, a passionate **Front-End Developer** with a strong understanding of modern web technologies and over **3 years of experience** crafting dynamic and user-focused interfaces.  
+
+- 💻 I build fast, scalable, and visually stunning web apps using **React**, **Next.js**, **TypeScript**, **TailwindCSS**, **Framer Motion**, and **GSAP**.  
+- ⚙️ I have a solid grasp of **Node.js**, **Express.js**, and database tools like **PostgreSQL**, **MySQL**, and **Prisma ORM**, allowing me to connect the dots between front-end and back-end seamlessly.  
+- 🧠 Experienced with state management libraries such as **Redux** and **Zustand**, and always focused on writing clean, reusable, and efficient code.  
+- 🌱 Currently exploring **Web3**, **backend design patterns**, and **performance optimization** across full-stack environments. and learning devops concept
 - 📫 Reach me at: **reza.mousavi0ms@gmail.com**  
-- ⚡ Fun fact: *I love turning complex ideas into beautiful UI and solid logic.*  
+- ⚡ **Fun Fact:** The first computer “bug” was literally a moth — mine are usually just missing parentheses 😉  
+
 
 ---
 
